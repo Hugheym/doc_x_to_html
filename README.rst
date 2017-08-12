@@ -27,3 +27,16 @@ command:
 ::
 
     doc_x_to_html [source_dir] [target_dir] 
+
+You can build from source by cd-ing into the project directory and
+using:
+
+::
+
+    python3 setup.py install
+
+Or you can install from PyPi using:
+
+::
+
+    pip3 install doc_x_to_html

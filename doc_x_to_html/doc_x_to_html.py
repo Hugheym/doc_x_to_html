@@ -6,7 +6,7 @@ import tempfile
 import subprocess
 
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 # Tested in Python 3.5.3
 
