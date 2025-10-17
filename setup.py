@@ -32,7 +32,7 @@ setup(
     entry_points={
         "console_scripts": ['doc_x_to_html = doc_x_to_html.doc_x_to_html:main']
     },
-    install_requires = ['mammoth==1.4.2']
+    install_requires = ['mammoth==1.11.0']
     ,
     python_requires=">=3.0"
     ,
